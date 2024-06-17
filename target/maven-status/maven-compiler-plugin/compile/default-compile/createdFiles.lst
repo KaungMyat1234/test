@@ -1,0 +1,5 @@
+spring\controller\UserController.class
+spring\repository\MyConnection.class
+spring\repository\UserRepository.class
+spring\model\UserBean.class
+spring\dto\UserDTO.class
